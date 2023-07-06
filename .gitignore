@@ -1,0 +1,11 @@
+exp*
+expert_demos/
+exp_local/
+xArm-Python-SDK/
+wandb/
+train.sh
+csv*
+weights
+
+agent/__pycache__/
+__pycache__/
